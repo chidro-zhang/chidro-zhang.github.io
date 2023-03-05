@@ -1,6 +1,6 @@
 # Setup
-title: Chidro
-description: Chidro's personal homepage
+title: chidro
+description: chidro's personal homepage
 url: https://chidro-zhang.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -30,7 +30,7 @@ exclude:
 # Optimize Jekyl SEO Tag
 logo: logo.png
 social:
-  name: Chidro Zhang
+  name: chidro
   links:
     - https://github.com/chidro-zhang
 google_site_verification: xxxxx
@@ -50,6 +50,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Chidro Zhang
+  name: chidro
   url: https://github.com/chidro-zhang
   email: 386486317@qq.com
