@@ -4,7 +4,7 @@ title: Publication
 ---
 
 # 2023
-\[1\] **C. Zhang**, W. Zhu, J. Peng, Y. Han, W. Liu, "Visual Servo Control of Endoscope-holding Robot Based on Multi-objective Optimization: System Modeling and Instrument Tracking," *Measurement*. vol. 211, pp. 1-11, Apr. 2023. (DOI: 10.1016/j.measurement.2023.112658) \[[Link](https://www.sciencedirect.com/science/article/pii/S0263224123002221)\]  
+\[1\] **C. Zhang**, W. Zhu, J. Peng, Y. Han, W. Liu, "Visual Servo Control of Endoscope-holding Robot Based on Multi-objective Optimization: System Modeling and Instrument Tracking," *Measurement*, vol. 211, pp. 1-11, Apr. 2023. (DOI: 10.1016/j.measurement.2023.112658) \[[Link](https://www.sciencedirect.com/science/article/pii/S0263224123002221)\]  
 
 <br/>
 
